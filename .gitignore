@@ -16,3 +16,6 @@ crash.*.log
 # Local environment files
 .env
 .env.*
+
+# Terraform Lab 02 generated file
+terraform/lab-02/welcome.txt
